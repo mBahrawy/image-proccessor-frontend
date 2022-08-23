@@ -2,7 +2,7 @@ import React from 'react'
 
 const Create = () => {
   return (
-    <div>Create</div>
+    <div className='p-5'>This screen will be created soon.</div>
   )
 }
 
